@@ -67,4 +67,5 @@ describe("Jest Tests", function () {
         {expect(regForm.passworsErrorMessage1).toEqual('Минимум 8 символов')}
     })
 
+
 })
